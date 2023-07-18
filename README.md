@@ -1,6 +1,4 @@
-# Assignment 5: Basic Memory Allocator
-
-This is the starter code for [Assignment 5](https://course.ccs.neu.edu/cs3650sp23/a05.html).
+# Basic Memory Allocator
 
 The [Makefile](Makefile) contains the following targets:
 
